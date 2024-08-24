@@ -60,6 +60,4 @@ This is the backend for the Blog application. It provides a RESTful API to manag
 ## License
 
   - This project is licensed under the MIT License.
-
-
    - 
